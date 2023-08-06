@@ -18,5 +18,4 @@ Clone this repo.
 + Run [BookMyShow.py](BookMyShow.py) 
 
 ## Note
-The images used in this app can be downloaded from [Assets](assets).          
-[App Snippets](snippets) contains the app snippets.
+The images used in this app can be downloaded from [Assets](assets).    
