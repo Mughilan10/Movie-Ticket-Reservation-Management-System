@@ -19,3 +19,5 @@ Clone this repo.
 
 ## Note
 The images used in this app can be downloaded from [Assets](assets).    
+
+Refer to "Project Report.pdf" to know more.
