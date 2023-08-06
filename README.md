@@ -1,6 +1,6 @@
 # Movie Ticket Reservation Management System
 
-A ticket reservation system that facilitates the process of viewing ticket availability for movies playing in various languages, timings, venues and also allows the user to purchase tickets for the same.
+A ticket reservation system that facilitates the process of viewing ticket availability for movies playing in various languages, timings, venues and also allows the user to purchase tickets for the same. The GUI was implemented using Tkinter and Oracle SQL Plus was used as database.
 
 ## How to run?
 
